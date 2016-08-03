@@ -1,0 +1,11 @@
+# http://editorconfig.org
+
+root = true
+
+[Makefile]
+indent_style = tab
+indent_size = 4
+
+[*.plist]
+indent_style = tab
+indent_size = 4
